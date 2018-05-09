@@ -15,12 +15,13 @@ _Alexander Bradley, Daniel Doyle, Brad Ferrell, Abby Olaleye_
 
 * __Our application utilizes:__
     * React.js
+    * MongoDB
     * Material-UI
     * an MVC Paradigm folder structure
 
 * __Our application also:__
-    * is backed by a MongoDB Database communicated to by Mongoose
+    * uses Mongoose to communicate and export data to the Database
     * is deployed through Heroku
 
 #### > __Try it Out:__
-[![conTECH](contech2.png)](https://contech-app.herokuapp.com/)
+[![conTECH](contech1.png)](https://contech-app.herokuapp.com/)
