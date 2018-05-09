@@ -23,4 +23,4 @@ _Alexander Bradley, Daniel Doyle, Brad Ferrell, Abby Olaleye_
     * is deployed through Heroku
 
 #### > __Try it Out:__
-[![conTECH](contech1.gif)](https://contech-app.herokuapp.com/)
+[![conTECH](contech2.png)](https://contech-app.herokuapp.com/)
