@@ -2,7 +2,7 @@
 __Putting Tech into Context.__ _A Developer’s Dictionary and Interactive Reference Guide._
 
 ### Contributors:
-Alexander Bradley, Daniel Doyle, Brad Ferrell, Abby Olaleye
+| Alexander Bradley | Daniel Doyle | Brad Ferrell | Abby Olaleye |
 
 #
 
