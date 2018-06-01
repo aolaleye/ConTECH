@@ -1,8 +1,8 @@
 # ConTECH
-__Putting Tech into Context.__ _A Developer’s Dictionary and Interactive Reference Guide._
+__Putting Tech into Context.__ A Developer’s Dictionary and Interactive Reference Guide.
 
 ### Contributors:
-| Alexander Bradley | Daniel Doyle | Brad Ferrell | Abby Olaleye |
+| _Alexander Bradley_ | _Daniel Doyle_ | _Brad Ferrell_ | _Abby Olaleye_ |
 
 #
 
